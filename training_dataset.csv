@@ -1,0 +1,206 @@
+Date,Person,Shift,Day,DayType,Weekend,WeekendCountA,WeekendConsec2A
+,Alphonse,C,Friday,Weekday,False,0,0
+,Alphonse,C,Sunday,Weekend,True,0,0
+,Alphonse,B,Tuesday,Weekday,False,0,0
+,Alphonse,A,Thursday,Weekday,False,0,0
+,Alphonse,C,Friday,Weekday,False,0,0
+,Alphonse,B,Sunday,Weekend,True,0,0
+,Alphonse,A,Tuesday,Weekday,False,0,0
+,Alphonse,C,Wednesday,Weekday,False,0,0
+,Alphonse,B,Friday,Weekday,False,0,0
+,Alphonse,C,Saturday,Weekend,True,0,0
+,Alphonse,B,Monday,Weekday,False,0,0
+,Alphonse,A,Wednesday,Weekday,False,0,0
+,Alphonse,C,Thursday,Weekday,False,0,0
+,Alphonse,A,Saturday,Weekend,True,0,1
+,Alphonse,C,Sunday,Weekend,True,0,0
+,Alphonse,B,Tuesday,Weekday,False,0,0
+,Alphonse,A,Thursday,Weekday,False,0,0
+,Alphonse,C,Friday,Weekday,False,0,0
+,Alphonse,B,Sunday,Weekend,True,0,0
+,Antony,C,Friday,Weekday,False,0,0
+,Antony,B,Sunday,Weekend,True,0,0
+,Antony,A,Tuesday,Weekday,False,0,0
+,Antony,C,Wednesday,Weekday,False,0,0
+,Antony,C,Friday,Weekday,False,0,0
+,Antony,A,Sunday,Weekend,True,0,1
+,Antony,C,Monday,Weekday,False,0,0
+,Antony,B,Wednesday,Weekday,False,0,0
+,Antony,A,Friday,Weekday,False,0,0
+,Antony,C,Saturday,Weekend,True,0,0
+,Antony,A,Monday,Weekday,False,0,0
+,Antony,C,Tuesday,Weekday,False,0,0
+,Antony,B,Thursday,Weekday,False,0,0
+,Antony,B,Saturday,Weekend,True,0,0
+,Antony,B,Monday,Weekday,False,0,0
+,Antony,A,Wednesday,Weekday,False,0,0
+,Antony,C,Thursday,Weekday,False,0,0
+,Antony,A,Saturday,Weekend,True,0,1
+,Antony,C,Sunday,Weekend,True,0,0
+,Edwin,B,Friday,Weekday,False,0,0
+,Edwin,A,Tuesday,Weekday,False,0,0
+,Edwin,C,Wednesday,Weekday,False,0,0
+,Edwin,C,Friday,Weekday,False,0,0
+,Edwin,B,Sunday,Weekend,True,0,0
+,Edwin,A,Tuesday,Weekday,False,0,0
+,Edwin,C,Wednesday,Weekday,False,0,0
+,Edwin,B,Saturday,Weekend,True,0,0
+,Geoffrey,A,Saturday,Weekend,True,0,1
+,Geoffrey,B,Monday,Weekday,False,0,0
+,Geoffrey,A,Wednesday,Weekday,False,0,0
+,Geoffrey,C,Thursday,Weekday,False,0,0
+,Geoffrey,B,Saturday,Weekend,True,0,0
+,Geoffrey,A,Monday,Weekday,False,0,0
+,Geoffrey,C,Tuesday,Weekday,False,0,0
+,Geoffrey,B,Thursday,Weekday,False,0,0
+,Geoffrey,A,Saturday,Weekend,True,0,1
+,Geoffrey,C,Sunday,Weekend,True,0,0
+,Geoffrey,B,Tuesday,Weekday,False,0,0
+,Geoffrey,A,Thursday,Weekday,False,0,0
+,Geoffrey,C,Friday,Weekday,False,0,0
+,Geoffrey,A,Sunday,Weekend,True,0,1
+,Geoffrey,C,Monday,Weekday,False,0,0
+,Geoffrey,B,Wednesday,Weekday,False,0,0
+,Geoffrey,B,Friday,Weekday,False,0,0
+,Geoffrey,C,Saturday,Weekend,True,0,0
+,James G,A,Friday,Weekday,False,0,0
+,James G,C,Saturday,Weekend,True,0,0
+,James G,C,Monday,Weekday,False,0,0
+,James G,B,Wednesday,Weekday,False,0,0
+,James G,B,Friday,Weekday,False,0,0
+,James G,A,Sunday,Weekend,True,0,1
+,James G,C,Monday,Weekday,False,0,0
+,James G,A,Thursday,Weekday,False,0,0
+,James G,C,Friday,Weekday,False,0,0
+,James G,B,Sunday,Weekend,True,0,0
+,James G,C,Monday,Weekday,False,0,0
+,James G,B,Wednesday,Weekday,False,0,0
+,James G,A,Friday,Weekday,False,0,0
+,James G,C,Saturday,Weekend,True,0,0
+,James G,A,Monday,Weekday,False,0,0
+,James G,C,Tuesday,Weekday,False,0,0
+,James G,B,Thursday,Weekday,False,0,0
+,James G,C,Friday,Weekday,False,0,0
+,James G,A,Sunday,Weekend,True,0,1
+,James M,B,Friday,Weekday,False,0,0
+,James M,A,Sunday,Weekend,True,0,1
+,James M,C,Monday,Weekday,False,0,0
+,James M,B,Wednesday,Weekday,False,0,0
+,James M,A,Friday,Weekday,False,0,0
+,James M,C,Saturday,Weekend,True,0,0
+,James M,B,Monday,Weekday,False,0,0
+,James M,A,Wednesday,Weekday,False,0,0
+,James M,C,Thursday,Weekday,False,0,0
+,James M,B,Saturday,Weekend,True,0,0
+,Jescah,A,Friday,Weekday,False,0,0
+,Jescah,A,Monday,Weekday,False,0,0
+,Jescah,A,Tuesday,Weekday,False,0,0
+,Jescah,A,Wednesday,Weekday,False,0,0
+,Jescah,A,Thursday,Weekday,False,0,0
+,Jescah,A,Friday,Weekday,False,0,0
+,Jescah,A,Monday,Weekday,False,0,0
+,Jescah,A,Tuesday,Weekday,False,0,0
+,Jescah,A,Wednesday,Weekday,False,0,0
+,Jescah,A,Thursday,Weekday,False,0,0
+,Jescah,A,Friday,Weekday,False,0,0
+,Jescah,A,Monday,Weekday,False,0,0
+,Jescah,A,Tuesday,Weekday,False,0,0
+,Jescah,A,Wednesday,Weekday,False,0,0
+,Jescah,A,Thursday,Weekday,False,0,0
+,Jescah,A,Friday,Weekday,False,0,0
+,Jescah,A,Monday,Weekday,False,0,0
+,Jescah,A,Tuesday,Weekday,False,0,0
+,Jescah,A,Wednesday,Weekday,False,0,0
+,Jescah,A,Thursday,Weekday,False,0,0
+,Jescah,A,Friday,Weekday,False,0,0
+,Joseph,C,Saturday,Weekend,True,0,0
+,Joseph,B,Monday,Weekday,False,0,0
+,Joseph,C,Wednesday,Weekday,False,0,0
+,Joseph,B,Friday,Weekday,False,0,0
+,Joseph,C,Saturday,Weekend,True,0,0
+,Joseph,B,Monday,Weekday,False,0,0
+,Joseph,B,Wednesday,Weekday,False,0,0
+,Joseph,B,Friday,Weekday,False,0,0
+,Joseph,B,Saturday,Weekend,True,0,0
+,Joseph,C,Sunday,Weekend,True,0,0
+,Joseph,C,Tuesday,Weekday,False,0,0
+,Joseph,B,Thursday,Weekday,False,0,0
+,Joseph,B,Saturday,Weekend,True,0,0
+,Joseph,C,Sunday,Weekend,True,0,0
+,Joseph,C,Tuesday,Weekday,False,0,0
+,Joseph,B,Thursday,Weekday,False,0,0
+,Joseph,A,Saturday,Weekend,True,0,1
+,Joseph,C,Sunday,Weekend,True,0,0
+,Norbat,B,Saturday,Weekend,True,0,0
+,Norbat,A,Monday,Weekday,False,0,0
+,Norbat,C,Tuesday,Weekday,False,0,0
+,Norbat,B,Thursday,Weekday,False,0,0
+,Norbat,A,Saturday,Weekend,True,0,1
+,Norbat,C,Sunday,Weekend,True,0,0
+,Norbat,B,Tuesday,Weekday,False,0,0
+,Norbat,C,Thursday,Weekday,False,0,0
+,Norbat,A,Sunday,Weekend,True,0,1
+,Norbat,C,Monday,Weekday,False,0,0
+,Norbat,B,Wednesday,Weekday,False,0,0
+,Norbat,B,Friday,Weekday,False,0,0
+,Norbat,A,Sunday,Weekend,True,0,1
+,Norbat,C,Monday,Weekday,False,0,0
+,Norbat,B,Wednesday,Weekday,False,0,0
+,Norbat,A,Friday,Weekday,False,0,0
+,Norbat,C,Saturday,Weekend,True,0,0
+,Priscilla,A,Friday,Weekday,False,0,0
+,Priscilla,A,Monday,Weekday,False,0,0
+,Priscilla,A,Tuesday,Weekday,False,0,0
+,Priscilla,A,Wednesday,Weekday,False,0,0
+,Priscilla,A,Thursday,Weekday,False,0,0
+,Priscilla,A,Friday,Weekday,False,0,0
+,Priscilla,A,Monday,Weekday,False,0,0
+,Priscilla,A,Tuesday,Weekday,False,0,0
+,Priscilla,A,Wednesday,Weekday,False,0,0
+,Priscilla,A,Thursday,Weekday,False,0,0
+,Priscilla,A,Friday,Weekday,False,0,0
+,Priscilla,A,Monday,Weekday,False,0,0
+,Priscilla,A,Tuesday,Weekday,False,0,0
+,Priscilla,A,Wednesday,Weekday,False,0,0
+,Priscilla,A,Thursday,Weekday,False,0,0
+,Priscilla,A,Friday,Weekday,False,0,0
+,Priscilla,A,Monday,Weekday,False,0,0
+,Priscilla,A,Tuesday,Weekday,False,0,0
+,Priscilla,A,Wednesday,Weekday,False,0,0
+,Priscilla,A,Thursday,Weekday,False,0,0
+,Priscilla,A,Friday,Weekday,False,0,0
+,Sam,A,Saturday,Weekend,True,0,1
+,Sam,B,Sunday,Weekend,True,0,0
+,Sam,C,Tuesday,Weekday,False,0,0
+,Sam,B,Thursday,Weekday,False,0,0
+,Sam,A,Saturday,Weekend,True,0,1
+,Sam,B,Sunday,Weekend,True,0,0
+,Sam,C,Tuesday,Weekday,False,0,0
+,Sam,B,Thursday,Weekday,False,0,0
+,Sam,C,Friday,Weekday,False,0,0
+,Sam,A,Sunday,Weekend,True,0,1
+,Sam,B,Monday,Weekday,False,0,0
+,Sam,C,Wednesday,Weekday,False,0,0
+,Sam,B,Friday,Weekday,False,0,0
+,Sam,C,Saturday,Weekend,True,0,0
+,Sam,B,Monday,Weekday,False,0,0
+,Sam,C,Wednesday,Weekday,False,0,0
+,Sam,B,Friday,Weekday,False,0,0
+,Sam,B,Sunday,Weekend,True,0,0
+,Shelton,B,Saturday,Weekend,True,0,0
+,Shelton,C,Sunday,Weekend,True,0,0
+,Shelton,B,Tuesday,Weekday,False,0,0
+,Shelton,C,Thursday,Weekday,False,0,0
+,Shelton,B,Saturday,Weekend,True,0,0
+,Shelton,C,Sunday,Weekend,True,0,0
+,Shelton,B,Tuesday,Weekday,False,0,0
+,Shelton,C,Wednesday,Weekday,False,0,0
+,Shelton,A,Saturday,Weekend,True,0,1
+,Shelton,B,Sunday,Weekend,True,0,0
+,Shelton,B,Tuesday,Weekday,False,0,0
+,Shelton,C,Thursday,Weekday,False,0,0
+,Shelton,A,Saturday,Weekend,True,0,1
+,Shelton,B,Sunday,Weekend,True,0,0
+,Shelton,B,Tuesday,Weekday,False,0,0
+,Shelton,C,Thursday,Weekday,False,0,0
+,Shelton,B,Saturday,Weekend,True,0,0
